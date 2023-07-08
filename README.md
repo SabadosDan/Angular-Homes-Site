@@ -1,4 +1,8 @@
-# FirstAppAngular
+# Angular Homes Site
+
+Take a peek at the site [HERE](https://onlyhomes.netlify.app).
+
+Angular project for a real estate listing site.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.2.
 

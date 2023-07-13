@@ -2,7 +2,7 @@
 
 Take a peek at the site [HERE](https://onlyhomes.netlify.app).
 
-Angular project for a real estate listing site.
+Angular project for a real estate listing and booking site.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.2.
 
